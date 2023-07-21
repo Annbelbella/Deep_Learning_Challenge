@@ -1,8 +1,14 @@
 # Deep_Learning_Challenge
-The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, i used the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
-
 ![image](https://github.com/Annbelbella/Deep_Learning_Challenge/assets/124645643/6af73166-e70c-4717-8892-192334cfc3ce)
 
+
+This analysis aims to create a deep learning model using a neural network to predict the success of funding applicants for Alphabet Soup. By training a model on historical data, we aim to classify future applicants into successful or unsuccessful funding categories, assisting Alphabet Soup in making informed decisions.
+
+Target variable(s): The target variable for the model is the "success" or "failure" of funding applicants 
+
+Feature Variables: Information about the applicanIt included; classification, application type, affiliation, organization, status etc. 
+
+Variables removed: EIN and NAME
 
 I achieved a 73% target model performance which was unfortunaely below the required 75% 
 
@@ -31,7 +37,7 @@ Again, I was only able to achieve 73%
 ![image](https://github.com/Annbelbella/Deep_Learning_Challenge/assets/124645643/58f21ef8-278c-4660-b576-ea1358b15f99)
 
 ### Conclusion
-The deep learning model that I have developed was unable to achieve accuracy higher than 73%. To further improve the model's performance, I can consider;
-- Adding more data because increasing the size of the training dataset can help the model learn from a larger and more diverse set of examples.
-- Trying a different algorithm, such as Random Forest to allow focusing on the most informative features and potentially improve accuracy.
+The deep learning model that I have developed was unable to achieve accuracy higher than 73%. To further improve the model's performance, I would recommend exploring a different algorithm to improve accuracy
+and adding more data because increasing the size of the training dataset can help the model learn from a larger and more diverse set of examples.
+
 

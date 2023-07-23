@@ -12,7 +12,7 @@ This analysis aims to create a deep learning model using a neural network to pre
 
 I achieved a 73% target model performance which was unfortunaely below the required 75% 
 
-![image](https://github.com/Annbelbella/Deep_Learning_Challenge/assets/124645643/9d64e543-01ed-4e05-bb93-a155027487b9)
+![image](https://github.com/Annbelbella/Deep_Learning_Challenge/assets/124645643/f2695a94-e165-4eea-992b-0827baf54cbb)
 
 ### Techniques taken to increase model performance?
 1. Increasing the number of neurons and epochs:
@@ -27,13 +27,14 @@ I was only able to achieve 73%
 
 3. Using a different activation function (tanh for the second layer)
 
-![image](https://github.com/Annbelbella/Deep_Learning_Challenge/assets/124645643/b0eabaec-5713-4dd0-8c56-49e03bc979a1)
+![image](https://github.com/Annbelbella/Deep_Learning_Challenge/assets/124645643/78596aca-b1c1-4d9b-ac9e-74f530c5de71)
 
 
  5. Utilizing an Automated Optimiser (such as a hyperparameter tuner):
 Automated optimisers, like hyperparameter tuners, systematically explore various combinations of hyperparameters, such as activation functions, number of layers, number of neurons, and epochs. This exploration can help identify the most optimal combination of hyperparameters for your specific problem, potentially leading to higher accuracy. 
 Again, I only achieved 73%
-![image](https://github.com/Annbelbella/Deep_Learning_Challenge/assets/124645643/58f21ef8-278c-4660-b576-ea1358b15f99)
+![image](https://github.com/Annbelbella/Deep_Learning_Challenge/assets/124645643/7b9d6898-18a6-49b1-8133-898f0cea4bb8)
+
 
 ### Conclusion
 The deep learning model that I have developed was unable to achieve accuracy higher than 73%. To further improve the model's performance, I would recommend exploring a different algorithm to improve accuracy
